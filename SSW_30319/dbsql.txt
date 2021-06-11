@@ -1,0 +1,57 @@
+create table emp(
+em_no varchar2(10) primary key,
+em_name varchar2(20),
+em_po varchar2(10),
+em_gen varchar2(3)
+);
+
+insert into emp values('A302','꼬북좌','대리','남');
+insert into emp values('A303','단발좌','대리','여');
+insert into emp values('B402','용버지','팀장','남');
+insert into emp values('B401','왕눈좌','사원','여');
+
+
+create table emp_money(
+em_no varchar2(10) primary key,
+mny_sn number(3),
+mny_sb number(3),
+mny_db number(3),
+mny_dn number(3),
+mny_ds number(3)
+);
+
+insert into emp_money values('B401',20,87,30,80,90);
+
+m.i.c를 굳게 잡고 
+비트 위에 대가리 박고
+이 새끼들 어떻게 골려줄까
+한숨 크게 한번 뱉고 shit
+
+머리 위에 돈 비가 내려
+간지나게 그새끼 뺨을 쌔려
+멀찍이서 그년이 날 야려
+시간이 없어서 get out that bottom
+
+한국의 정신을 이어받어
+작두 타고 이 verse 때려박어
+이상한 사상에 개념을 끼워팔어
+삭제 해줄게 너 같은 퇴폐업소
+
+이 곡의 주체는 당신네 고객
+좋은 곡을 위해 또 한번 고뇌
+내가 적은 살생부에 니이름 조회
+번뇌를 통해 뇌리를 스친 기억을 후회
+
+주머니 속 3천원 때문에 울고 웃고 uh
+어떻게 벌어먹고 살래 개쌍욕을 uh
+니가 컨설팅해줄래 nah
+창문 좀 깨고 환기 좀 시켜봐
+니 뇌 속을 갉아먹고 만들어줄게 텅 빈 미라
+
+발음
+짐승
+
+구속
+유종의 미
+뒤치다꺼리
+부지기수

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+li {
+	display: inline;
+	width: 100%;
+}
+
+header {
+	background-color: silver;
+	padding: 15px;
+}
+
+nav {
+	text-align:center;
+	background-color: gray;
+	padding: 5px;
+}
+
+footer {
+	position:fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 8px;
+	background-color: silver;
+}
+
+div{
+	text-align: center;
+	padding: 8px;
+}
+
+table{
+	margin: auto;
+}
