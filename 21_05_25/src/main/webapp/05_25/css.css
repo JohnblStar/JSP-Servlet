@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+html, body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+li {
+	display: inline;
+	margin-left: 3%;
+}
+
+a {
+		text-decoration-line: none;
+}
+a:active {
+	text-decoration: underline;
+}
+
+table {
+	margin: auto;
+}
+
+div {
+	padding: 5px;
+}
+
+header {
+	background-color: silver;
+	padding: 15px;
+}
+
+nav {
+	background-color: gray;
+	padding: 8px;
+}
+
+section {
+	padding: 5px;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: black;
+	color: white;
+}
