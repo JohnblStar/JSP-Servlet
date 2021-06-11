@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+header {
+	background-color: blue; 
+}
+
+#p1 {
+	margin:0;
+	text-align: center;
+}
+
+#p2 {
+	font-size: 110%; 
+	margin:0;
+	text-align: center;
+}
+
+nav {
+	background-color: aqua;
+}
+
+li,ul {
+	display: inline;
+	margin-left: 3%;
+}
+
+footer {
+	position: absolute;
+	left:0;
+	right:0;
+	bottom: 0;
+	background-color: blue;
+	color: white;
+}
+
+
+div {
+	margin-top: 15px;
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	text-align: center;
+}
