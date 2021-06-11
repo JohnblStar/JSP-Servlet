@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+*{margin: 0; padding: 0;}
+ul, li{list-style: none;}
+body{font-family:"Malgun Gothic";}
+a{text-decoration: none;}
+table{border-collapse: collapse; border-spacing: 0;}
+
+.logo{height: 80px; background: #09F; color: #fff; line-height: 80px; text-align: center;}
